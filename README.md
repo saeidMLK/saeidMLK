@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saeidMLK  Saeed Malekifar
-- 👀 I’m interested in AL and Data Science
+- 👀 I’m interested in AI and Data Science
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to related Phd Positions 
 - 📫 How to reach me ...
